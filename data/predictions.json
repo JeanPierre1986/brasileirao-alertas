@@ -1,0 +1,307 @@
+{
+  "generatedAt": "2026-07-24T15:36:50.784269+00:00",
+  "competition": "Brasileirão Série A",
+  "leagueAvgGoals": 1.33,
+  "matches": [
+    {
+      "id": 554930,
+      "utcDate": "2026-07-25T21:30:00Z",
+      "home": "CA Paranaense",
+      "away": "SC Internacional",
+      "matchday": 20,
+      "prediction": {
+        "xgHome": 1.5,
+        "xgAway": 0.76,
+        "probHome": 54.9,
+        "probDraw": 26.2,
+        "probAway": 18.9,
+        "likelyScore": "1-0"
+      }
+    },
+    {
+      "id": 554938,
+      "utcDate": "2026-07-25T21:30:00Z",
+      "home": "Santos FC",
+      "away": "Chapecoense AF",
+      "matchday": 20,
+      "prediction": {
+        "xgHome": 2.53,
+        "xgAway": 0.96,
+        "probHome": 71.4,
+        "probDraw": 16.4,
+        "probAway": 12.2,
+        "likelyScore": "2-0"
+      }
+    },
+    {
+      "id": 554939,
+      "utcDate": "2026-07-25T23:30:00Z",
+      "home": "CR Vasco da Gama",
+      "away": "Mirassol FC",
+      "matchday": 20,
+      "prediction": {
+        "xgHome": 1.4,
+        "xgAway": 1.15,
+        "probHome": 42.5,
+        "probDraw": 26.5,
+        "probAway": 31.0,
+        "likelyScore": "1-1"
+      }
+    },
+    {
+      "id": 554931,
+      "utcDate": "2026-07-26T19:00:00Z",
+      "home": "EC Bahia",
+      "away": "SC Corinthians Paulista",
+      "matchday": 20,
+      "prediction": {
+        "xgHome": 1.28,
+        "xgAway": 0.92,
+        "probHome": 44.8,
+        "probDraw": 28.5,
+        "probAway": 26.6,
+        "likelyScore": "1-0"
+      }
+    },
+    {
+      "id": 554933,
+      "utcDate": "2026-07-26T19:00:00Z",
+      "home": "Cruzeiro EC",
+      "away": "Botafogo FR",
+      "matchday": 20,
+      "prediction": {
+        "xgHome": 2.0,
+        "xgAway": 1.74,
+        "probHome": 44.5,
+        "probDraw": 21.3,
+        "probAway": 34.2,
+        "likelyScore": "1-1"
+      }
+    },
+    {
+      "id": 554932,
+      "utcDate": "2026-07-26T21:30:00Z",
+      "home": "RB Bragantino",
+      "away": "Coritiba FBC",
+      "matchday": 20,
+      "prediction": {
+        "xgHome": 1.69,
+        "xgAway": 0.91,
+        "probHome": 55.7,
+        "probDraw": 24.1,
+        "probAway": 20.2,
+        "likelyScore": "1-0"
+      }
+    },
+    {
+      "id": 554934,
+      "utcDate": "2026-07-26T21:30:00Z",
+      "home": "CR Flamengo",
+      "away": "São Paulo FC",
+      "matchday": 20,
+      "prediction": {
+        "xgHome": 1.95,
+        "xgAway": 0.74,
+        "probHome": 66.1,
+        "probDraw": 20.7,
+        "probAway": 13.2,
+        "likelyScore": "1-0"
+      }
+    },
+    {
+      "id": 554935,
+      "utcDate": "2026-07-26T21:30:00Z",
+      "home": "Grêmio FBPA",
+      "away": "Fluminense FC",
+      "matchday": 20,
+      "prediction": {
+        "xgHome": 1.21,
+        "xgAway": 1.32,
+        "probHome": 34.1,
+        "probDraw": 26.8,
+        "probAway": 39.1,
+        "likelyScore": "1-1"
+      }
+    },
+    {
+      "id": 554936,
+      "utcDate": "2026-07-26T22:30:00Z",
+      "home": "SE Palmeiras",
+      "away": "CA Mineiro",
+      "matchday": 20,
+      "prediction": {
+        "xgHome": 1.9,
+        "xgAway": 0.59,
+        "probHome": 69.0,
+        "probDraw": 20.5,
+        "probAway": 10.6,
+        "likelyScore": "1-0"
+      }
+    },
+    {
+      "id": 554937,
+      "utcDate": "2026-07-26T22:30:00Z",
+      "home": "Clube do Remo",
+      "away": "EC Vitória",
+      "matchday": 20,
+      "prediction": {
+        "xgHome": 1.26,
+        "xgAway": 1.28,
+        "probHome": 36.2,
+        "probDraw": 26.7,
+        "probAway": 37.0,
+        "likelyScore": "1-1"
+      }
+    },
+    {
+      "id": 554940,
+      "utcDate": "2026-07-29T20:00:00Z",
+      "home": "CA Mineiro",
+      "away": "RB Bragantino",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 1.11,
+        "xgAway": 1.13,
+        "probHome": 34.9,
+        "probDraw": 28.8,
+        "probAway": 36.3,
+        "likelyScore": "1-1"
+      }
+    },
+    {
+      "id": 554941,
+      "utcDate": "2026-07-29T20:00:00Z",
+      "home": "Botafogo FR",
+      "away": "Grêmio FBPA",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 1.98,
+        "xgAway": 1.22,
+        "probHome": 55.0,
+        "probDraw": 21.7,
+        "probAway": 23.2,
+        "likelyScore": "1-1"
+      }
+    },
+    {
+      "id": 554942,
+      "utcDate": "2026-07-29T20:00:00Z",
+      "home": "Chapecoense AF",
+      "away": "CR Vasco da Gama",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 1.23,
+        "xgAway": 1.56,
+        "probHome": 30.0,
+        "probDraw": 25.0,
+        "probAway": 45.1,
+        "likelyScore": "1-1"
+      }
+    },
+    {
+      "id": 554948,
+      "utcDate": "2026-07-29T20:00:00Z",
+      "home": "São Paulo FC",
+      "away": "Santos FC",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 1.79,
+        "xgAway": 1.08,
+        "probHome": 54.0,
+        "probDraw": 23.2,
+        "probAway": 22.8,
+        "likelyScore": "1-1"
+      }
+    },
+    {
+      "id": 554946,
+      "utcDate": "2026-07-29T22:30:00Z",
+      "home": "SC Internacional",
+      "away": "CR Flamengo",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 0.89,
+        "xgAway": 1.61,
+        "probHome": 20.8,
+        "probDraw": 24.9,
+        "probAway": 54.3,
+        "likelyScore": "0-1"
+      }
+    },
+    {
+      "id": 554947,
+      "utcDate": "2026-07-29T22:30:00Z",
+      "home": "Mirassol FC",
+      "away": "Clube do Remo",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 1.62,
+        "xgAway": 1.01,
+        "probHome": 51.8,
+        "probDraw": 24.8,
+        "probAway": 23.5,
+        "likelyScore": "1-1"
+      }
+    },
+    {
+      "id": 554945,
+      "utcDate": "2026-07-30T00:30:00Z",
+      "home": "Fluminense FC",
+      "away": "EC Bahia",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 1.67,
+        "xgAway": 1.22,
+        "probHome": 47.9,
+        "probDraw": 24.1,
+        "probAway": 27.9,
+        "likelyScore": "1-1"
+      }
+    },
+    {
+      "id": 554949,
+      "utcDate": "2026-07-30T00:30:00Z",
+      "home": "EC Vitória",
+      "away": "SE Palmeiras",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 0.74,
+        "xgAway": 1.5,
+        "probHome": 18.4,
+        "probDraw": 26.2,
+        "probAway": 55.4,
+        "likelyScore": "0-1"
+      }
+    },
+    {
+      "id": 554943,
+      "utcDate": "2026-07-30T22:30:00Z",
+      "home": "SC Corinthians Paulista",
+      "away": "CA Paranaense",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 0.96,
+        "xgAway": 0.9,
+        "probHome": 35.5,
+        "probDraw": 32.3,
+        "probAway": 32.2,
+        "likelyScore": "0-0"
+      }
+    },
+    {
+      "id": 554944,
+      "utcDate": "2026-07-31T00:30:00Z",
+      "home": "Coritiba FBC",
+      "away": "Cruzeiro EC",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 1.74,
+        "xgAway": 1.28,
+        "probHome": 48.4,
+        "probDraw": 23.5,
+        "probAway": 28.1,
+        "likelyScore": "1-1"
+      }
+    }
+  ]
+}
