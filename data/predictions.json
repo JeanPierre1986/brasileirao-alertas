@@ -1,91 +1,11 @@
 {
-  "generatedAt": "2026-07-27T12:27:49.087902+00:00",
+  "generatedAt": "2026-07-28T11:21:16.948197+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.31,
   "leagueAvgHomeGoals": 1.51,
   "leagueAvgAwayGoals": 1.11,
   "matches": [
-    {
-      "id": 554940,
-      "utcDate": "2026-07-29T20:00:00Z",
-      "home": "CA Mineiro",
-      "away": "RB Bragantino",
-      "matchday": 21,
-      "prediction": {
-        "xgHome": 1.0,
-        "xgAway": 1.15,
-        "probHome": 31.5,
-        "probDraw": 29.4,
-        "probAway": 39.0,
-        "likelyScore": "1-1",
-        "h2hMatchesConsidered": 10,
-        "homePosition": 8,
-        "awayPosition": 5,
-        "homeStreak": "1V",
-        "awayStreak": "2E"
-      }
-    },
-    {
-      "id": 554941,
-      "utcDate": "2026-07-29T20:00:00Z",
-      "home": "Botafogo FR",
-      "away": "Grêmio FBPA",
-      "matchday": 21,
-      "prediction": {
-        "xgHome": 1.88,
-        "xgAway": 0.78,
-        "probHome": 63.3,
-        "probDraw": 21.7,
-        "probAway": 15.0,
-        "likelyScore": "1-0",
-        "h2hMatchesConsidered": 10,
-        "homePosition": 7,
-        "awayPosition": 15,
-        "homeStreak": "1V",
-        "awayStreak": "1E"
-      }
-    },
-    {
-      "id": 554942,
-      "utcDate": "2026-07-29T20:00:00Z",
-      "home": "Chapecoense AF",
-      "away": "CR Vasco da Gama",
-      "matchday": 21,
-      "prediction": {
-        "xgHome": 1.47,
-        "xgAway": 1.68,
-        "probHome": 33.6,
-        "probDraw": 23.5,
-        "probAway": 42.9,
-        "likelyScore": "1-1",
-        "h2hMatchesConsidered": 9,
-        "homePosition": 20,
-        "awayPosition": 17,
-        "homeStreak": "1E",
-        "awayStreak": "1E"
-      }
-    },
-    {
-      "id": 554948,
-      "utcDate": "2026-07-29T20:00:00Z",
-      "home": "São Paulo FC",
-      "away": "Santos FC",
-      "matchday": 21,
-      "prediction": {
-        "xgHome": 2.04,
-        "xgAway": 1.35,
-        "probHome": 53.4,
-        "probDraw": 21.4,
-        "probAway": 25.2,
-        "likelyScore": "2-1",
-        "h2hMatchesConsidered": 10,
-        "homePosition": 12,
-        "awayPosition": 14,
-        "homeStreak": "1E",
-        "awayStreak": "1E"
-      }
-    },
     {
       "id": 554946,
       "utcDate": "2026-07-29T22:30:00Z",
