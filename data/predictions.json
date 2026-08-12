@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T10:02:54.214533+00:00",
+  "generatedAt": "2026-08-12T10:10:05.121874+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.29,
@@ -204,6 +204,66 @@
         "awayPosition": 19,
         "homeStreak": "2E",
         "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 554975,
+      "utcDate": "2026-08-22T19:00:00Z",
+      "home": "Fluminense FC",
+      "away": "Clube do Remo",
+      "matchday": 24,
+      "prediction": {
+        "xgHome": 1.7,
+        "xgAway": 0.8,
+        "probHome": 58.7,
+        "probDraw": 23.8,
+        "probAway": 17.5,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 1,
+        "homePosition": 4,
+        "awayPosition": 19,
+        "homeStreak": "5E",
+        "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 554976,
+      "utcDate": "2026-08-22T21:30:00Z",
+      "home": "SC Internacional",
+      "away": "CA Mineiro",
+      "matchday": 24,
+      "prediction": {
+        "xgHome": 0.74,
+        "xgAway": 1.29,
+        "probHome": 21.3,
+        "probDraw": 28.9,
+        "probAway": 49.8,
+        "likelyScore": "0-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 16,
+        "awayPosition": 11,
+        "homeStreak": "2E",
+        "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 554974,
+      "utcDate": "2026-08-22T23:30:00Z",
+      "home": "Cruzeiro EC",
+      "away": "CR Flamengo",
+      "matchday": 24,
+      "prediction": {
+        "xgHome": 1.05,
+        "xgAway": 1.55,
+        "probHome": 25.7,
+        "probDraw": 25.4,
+        "probAway": 48.9,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 5,
+        "awayPosition": 2,
+        "homeStreak": "2V",
+        "awayStreak": "1V"
       }
     }
   ]
