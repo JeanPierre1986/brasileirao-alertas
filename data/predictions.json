@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T10:12:00.685313+00:00",
+  "generatedAt": "2026-08-14T10:07:22.161855+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.29,
@@ -383,6 +383,26 @@
         "homePosition": 10,
         "awayPosition": 7,
         "homeStreak": "1V",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 554970,
+      "utcDate": "2026-08-24T23:00:00Z",
+      "home": "Botafogo FR",
+      "away": "CA Paranaense",
+      "matchday": 24,
+      "prediction": {
+        "xgHome": 0.9,
+        "xgAway": 1.15,
+        "probHome": 28.5,
+        "probDraw": 30.1,
+        "probAway": 41.4,
+        "likelyScore": "0-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 9,
+        "awayPosition": 3,
+        "homeStreak": "1E",
         "awayStreak": "1V"
       }
     }
