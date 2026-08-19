@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T09:37:17.991033+00:00",
+  "generatedAt": "2026-08-19T09:37:29.288439+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.3,
@@ -203,6 +203,46 @@
         "homePosition": 11,
         "awayPosition": 3,
         "homeStreak": "1D",
+        "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 554981,
+      "utcDate": "2026-08-29T21:30:00Z",
+      "home": "CA Mineiro",
+      "away": "EC Vitória",
+      "matchday": 25,
+      "prediction": {
+        "xgHome": 2.22,
+        "xgAway": 0.44,
+        "probHome": 78.2,
+        "probDraw": 15.8,
+        "probAway": 6.0,
+        "likelyScore": "2-0",
+        "h2hMatchesConsidered": 9,
+        "homePosition": 8,
+        "awayPosition": 12,
+        "homeStreak": "1V",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 554988,
+      "utcDate": "2026-08-29T23:00:00Z",
+      "home": "São Paulo FC",
+      "away": "RB Bragantino",
+      "matchday": 25,
+      "prediction": {
+        "xgHome": 0.94,
+        "xgAway": 0.94,
+        "probHome": 33.8,
+        "probDraw": 32.0,
+        "probAway": 34.1,
+        "likelyScore": "0-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 13,
+        "awayPosition": 7,
+        "homeStreak": "1E",
         "awayStreak": "1E"
       }
     }
