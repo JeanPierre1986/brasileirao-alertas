@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T09:37:29.288439+00:00",
+  "generatedAt": "2026-08-20T09:39:01.326939+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.3,
@@ -244,6 +244,146 @@
         "awayPosition": 7,
         "homeStreak": "1E",
         "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 554989,
+      "utcDate": "2026-08-30T00:20:00Z",
+      "home": "CR Vasco da Gama",
+      "away": "Cruzeiro EC",
+      "matchday": 25,
+      "prediction": {
+        "xgHome": 0.66,
+        "xgAway": 1.54,
+        "probHome": 16.0,
+        "probDraw": 25.6,
+        "probAway": 58.4,
+        "likelyScore": "0-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 19,
+        "awayPosition": 5,
+        "homeStreak": "1D",
+        "awayStreak": "3V"
+      }
+    },
+    {
+      "id": 554980,
+      "utcDate": "2026-08-30T14:00:00Z",
+      "home": "CA Paranaense",
+      "away": "Fluminense FC",
+      "matchday": 25,
+      "prediction": {
+        "xgHome": 1.38,
+        "xgAway": 0.46,
+        "probHome": 60.0,
+        "probDraw": 27.6,
+        "probAway": 12.3,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 3,
+        "awayPosition": 4,
+        "homeStreak": "1E",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 554983,
+      "utcDate": "2026-08-30T19:00:00Z",
+      "home": "SC Corinthians Paulista",
+      "away": "Santos FC",
+      "matchday": 25,
+      "prediction": {
+        "xgHome": 1.79,
+        "xgAway": 1.0,
+        "probHome": 55.8,
+        "probDraw": 23.2,
+        "probAway": 21.0,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 9,
+        "awayPosition": 14,
+        "homeStreak": "1D",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 554984,
+      "utcDate": "2026-08-30T19:00:00Z",
+      "home": "CR Flamengo",
+      "away": "Botafogo FR",
+      "matchday": 25,
+      "prediction": {
+        "xgHome": 2.24,
+        "xgAway": 0.65,
+        "probHome": 73.5,
+        "probDraw": 17.1,
+        "probAway": 9.3,
+        "likelyScore": "2-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 2,
+        "awayPosition": 11,
+        "homeStreak": "2V",
+        "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 554985,
+      "utcDate": "2026-08-30T21:30:00Z",
+      "home": "Grêmio FBPA",
+      "away": "Chapecoense AF",
+      "matchday": 25,
+      "prediction": {
+        "xgHome": 2.23,
+        "xgAway": 0.91,
+        "probHome": 67.3,
+        "probDraw": 18.7,
+        "probAway": 13.9,
+        "likelyScore": "2-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 15,
+        "awayPosition": 20,
+        "homeStreak": "1D",
+        "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 554982,
+      "utcDate": "2026-08-30T22:30:00Z",
+      "home": "EC Bahia",
+      "away": "SC Internacional",
+      "matchday": 25,
+      "prediction": {
+        "xgHome": 1.4,
+        "xgAway": 0.58,
+        "probHome": 57.2,
+        "probDraw": 27.5,
+        "probAway": 15.3,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 6,
+        "awayPosition": 16,
+        "homeStreak": "5E",
+        "awayStreak": "3E"
+      }
+    },
+    {
+      "id": 554986,
+      "utcDate": "2026-08-30T22:30:00Z",
+      "home": "Mirassol FC",
+      "away": "SE Palmeiras",
+      "matchday": 25,
+      "prediction": {
+        "xgHome": 0.89,
+        "xgAway": 2.49,
+        "probHome": 11.3,
+        "probDraw": 16.3,
+        "probAway": 72.3,
+        "likelyScore": "0-2",
+        "h2hMatchesConsidered": 3,
+        "homePosition": 17,
+        "awayPosition": 1,
+        "homeStreak": "2D",
+        "awayStreak": "1D"
       }
     }
   ]
