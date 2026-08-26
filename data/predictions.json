@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T09:39:01.538031+00:00",
+  "generatedAt": "2026-08-26T09:46:01.633920+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.3,
@@ -224,6 +224,66 @@
         "awayPosition": 17,
         "homeStreak": "1D",
         "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 554991,
+      "utcDate": "2026-09-05T19:00:00Z",
+      "home": "RB Bragantino",
+      "away": "EC Bahia",
+      "matchday": 26,
+      "prediction": {
+        "xgHome": 1.1,
+        "xgAway": 0.94,
+        "probHome": 38.8,
+        "probDraw": 30.4,
+        "probAway": 30.8,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 7,
+        "awayPosition": 6,
+        "homeStreak": "1V",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 554998,
+      "utcDate": "2026-09-05T21:30:00Z",
+      "home": "São Paulo FC",
+      "away": "CA Mineiro",
+      "matchday": 26,
+      "prediction": {
+        "xgHome": 0.8,
+        "xgAway": 1.0,
+        "probHome": 28.4,
+        "probDraw": 32.7,
+        "probAway": 38.9,
+        "likelyScore": "0-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 13,
+        "awayPosition": 9,
+        "homeStreak": "1D",
+        "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 554995,
+      "utcDate": "2026-09-06T00:00:00Z",
+      "home": "Fluminense FC",
+      "away": "CR Vasco da Gama",
+      "matchday": 26,
+      "prediction": {
+        "xgHome": 2.19,
+        "xgAway": 0.62,
+        "probHome": 73.6,
+        "probDraw": 17.4,
+        "probAway": 9.0,
+        "likelyScore": "2-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 4,
+        "awayPosition": 19,
+        "homeStreak": "2V",
+        "awayStreak": "2D"
       }
     }
   ]
