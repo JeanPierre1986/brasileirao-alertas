@@ -1,131 +1,11 @@
 {
-  "generatedAt": "2026-09-12T12:45:30.449228+00:00",
+  "generatedAt": "2026-09-13T13:44:27.051567+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
-  "leagueAvgGoals": 1.32,
-  "leagueAvgHomeGoals": 1.5,
+  "leagueAvgGoals": 1.33,
+  "leagueAvgHomeGoals": 1.51,
   "leagueAvgAwayGoals": 1.14,
   "matches": [
-    {
-      "id": 555000,
-      "utcDate": "2026-09-12T19:00:00Z",
-      "home": "CA Mineiro",
-      "away": "Fluminense FC",
-      "matchday": 27,
-      "prediction": {
-        "xgHome": 1.62,
-        "xgAway": 1.35,
-        "probHome": 43.8,
-        "probDraw": 24.2,
-        "probAway": 31.9,
-        "likelyScore": "1-1",
-        "h2hMatchesConsidered": 10,
-        "homePosition": 8,
-        "awayPosition": 4,
-        "homeStreak": "1D",
-        "awayStreak": "1V"
-      }
-    },
-    {
-      "id": 555006,
-      "utcDate": "2026-09-12T19:00:00Z",
-      "home": "Grêmio FBPA",
-      "away": "CR Vasco da Gama",
-      "matchday": 27,
-      "prediction": {
-        "xgHome": 1.84,
-        "xgAway": 0.84,
-        "probHome": 61.0,
-        "probDraw": 22.3,
-        "probAway": 16.7,
-        "likelyScore": "1-0",
-        "h2hMatchesConsidered": 10,
-        "homePosition": 15,
-        "awayPosition": 17,
-        "homeStreak": "1D",
-        "awayStreak": "1D"
-      }
-    },
-    {
-      "id": 555003,
-      "utcDate": "2026-09-12T20:00:00Z",
-      "home": "Chapecoense AF",
-      "away": "SC Internacional",
-      "matchday": 27,
-      "prediction": {
-        "xgHome": 1.63,
-        "xgAway": 1.61,
-        "probHome": 38.8,
-        "probDraw": 23.3,
-        "probAway": 37.9,
-        "likelyScore": "1-1",
-        "h2hMatchesConsidered": 7,
-        "homePosition": 20,
-        "awayPosition": 18,
-        "homeStreak": "1V",
-        "awayStreak": "2D"
-      }
-    },
-    {
-      "id": 555008,
-      "utcDate": "2026-09-12T21:30:00Z",
-      "home": "SE Palmeiras",
-      "away": "São Paulo FC",
-      "matchday": 27,
-      "prediction": {
-        "xgHome": 1.61,
-        "xgAway": 0.6,
-        "probHome": 62.0,
-        "probDraw": 24.4,
-        "probAway": 13.6,
-        "likelyScore": "1-0",
-        "h2hMatchesConsidered": 10,
-        "homePosition": 2,
-        "awayPosition": 10,
-        "homeStreak": "2E",
-        "awayStreak": "2V"
-      }
-    },
-    {
-      "id": 555002,
-      "utcDate": "2026-09-12T23:30:00Z",
-      "home": "Botafogo FR",
-      "away": "RB Bragantino",
-      "matchday": 27,
-      "prediction": {
-        "xgHome": 1.13,
-        "xgAway": 1.0,
-        "probHome": 38.6,
-        "probDraw": 29.6,
-        "probAway": 31.8,
-        "likelyScore": "1-0",
-        "h2hMatchesConsidered": 10,
-        "homePosition": 14,
-        "awayPosition": 9,
-        "homeStreak": "1E",
-        "awayStreak": "2D"
-      }
-    },
-    {
-      "id": 555009,
-      "utcDate": "2026-09-13T00:00:00Z",
-      "home": "Santos FC",
-      "away": "Cruzeiro EC",
-      "matchday": 27,
-      "prediction": {
-        "xgHome": 1.7,
-        "xgAway": 1.46,
-        "probHome": 43.5,
-        "probDraw": 23.4,
-        "probAway": 33.1,
-        "likelyScore": "1-1",
-        "h2hMatchesConsidered": 10,
-        "homePosition": 13,
-        "awayPosition": 6,
-        "homeStreak": "2V",
-        "awayStreak": "1V"
-      }
-    },
     {
       "id": 555007,
       "utcDate": "2026-09-13T19:00:00Z",
@@ -133,7 +13,7 @@
       "away": "EC Vitória",
       "matchday": 27,
       "prediction": {
-        "xgHome": 1.71,
+        "xgHome": 1.7,
         "xgAway": 0.78,
         "probHome": 59.5,
         "probDraw": 23.7,
@@ -141,7 +21,7 @@
         "likelyScore": "1-0",
         "h2hMatchesConsidered": 5,
         "homePosition": 16,
-        "awayPosition": 11,
+        "awayPosition": 12,
         "homeStreak": "1V",
         "awayStreak": "1V"
       }
@@ -153,15 +33,15 @@
       "away": "SC Corinthians Paulista",
       "matchday": 27,
       "prediction": {
-        "xgHome": 1.91,
+        "xgHome": 1.9,
         "xgAway": 0.45,
-        "probHome": 72.6,
-        "probDraw": 19.5,
+        "probHome": 72.5,
+        "probDraw": 19.6,
         "probAway": 7.9,
         "likelyScore": "1-0",
         "h2hMatchesConsidered": 10,
-        "homePosition": 1,
-        "awayPosition": 12,
+        "homePosition": 2,
+        "awayPosition": 13,
         "homeStreak": "3V",
         "awayStreak": "4D"
       }
@@ -173,7 +53,7 @@
       "away": "Clube do Remo",
       "matchday": 27,
       "prediction": {
-        "xgHome": 2.45,
+        "xgHome": 2.44,
         "xgAway": 0.85,
         "probHome": 72.3,
         "probDraw": 16.5,
@@ -193,17 +73,17 @@
       "away": "Grêmio FBPA",
       "matchday": 21,
       "prediction": {
-        "xgHome": 1.29,
-        "xgAway": 0.71,
-        "probHome": 50.4,
-        "probDraw": 29.1,
-        "probAway": 20.5,
+        "xgHome": 1.32,
+        "xgAway": 0.72,
+        "probHome": 50.9,
+        "probDraw": 28.7,
+        "probAway": 20.4,
         "likelyScore": "1-0",
         "h2hMatchesConsidered": 10,
         "homePosition": 14,
         "awayPosition": 15,
-        "homeStreak": "1E",
-        "awayStreak": "1D"
+        "homeStreak": "2E",
+        "awayStreak": "2D"
       }
     },
     {
@@ -213,17 +93,17 @@
       "away": "Chapecoense AF",
       "matchday": 28,
       "prediction": {
-        "xgHome": 2.14,
-        "xgAway": 1.02,
-        "probHome": 63.1,
-        "probDraw": 19.9,
-        "probAway": 16.9,
-        "likelyScore": "2-1",
+        "xgHome": 2.36,
+        "xgAway": 0.93,
+        "probHome": 69.2,
+        "probDraw": 17.6,
+        "probAway": 13.1,
+        "likelyScore": "2-0",
         "h2hMatchesConsidered": 10,
-        "homePosition": 8,
+        "homePosition": 7,
         "awayPosition": 20,
-        "homeStreak": "1D",
-        "awayStreak": "1V"
+        "homeStreak": "1V",
+        "awayStreak": "1D"
       }
     },
     {
@@ -233,17 +113,17 @@
       "away": "Botafogo FR",
       "matchday": 28,
       "prediction": {
-        "xgHome": 1.39,
+        "xgHome": 1.45,
         "xgAway": 1.44,
-        "probHome": 36.2,
-        "probDraw": 25.1,
-        "probAway": 38.7,
+        "probHome": 37.8,
+        "probDraw": 24.8,
+        "probAway": 37.4,
         "likelyScore": "1-1",
         "h2hMatchesConsidered": 3,
         "homePosition": 16,
         "awayPosition": 14,
         "homeStreak": "1V",
-        "awayStreak": "1E"
+        "awayStreak": "2E"
       }
     },
     {
@@ -253,17 +133,17 @@
       "away": "Santos FC",
       "matchday": 28,
       "prediction": {
-        "xgHome": 1.34,
-        "xgAway": 1.93,
-        "probHome": 26.6,
-        "probDraw": 22.1,
-        "probAway": 51.2,
+        "xgHome": 1.27,
+        "xgAway": 1.95,
+        "probHome": 24.9,
+        "probDraw": 22.0,
+        "probAway": 53.1,
         "likelyScore": "1-1",
         "h2hMatchesConsidered": 3,
         "homePosition": 19,
-        "awayPosition": 13,
+        "awayPosition": 10,
         "homeStreak": "3D",
-        "awayStreak": "2V"
+        "awayStreak": "3V"
       }
     },
     {
@@ -273,16 +153,16 @@
       "away": "Coritiba FBC",
       "matchday": 28,
       "prediction": {
-        "xgHome": 1.2,
+        "xgHome": 1.31,
         "xgAway": 1.87,
-        "probHome": 24.4,
+        "probHome": 26.8,
         "probDraw": 22.6,
-        "probAway": 53.0,
+        "probAway": 50.6,
         "likelyScore": "1-1",
         "h2hMatchesConsidered": 9,
         "homePosition": 17,
-        "awayPosition": 7,
-        "homeStreak": "1D",
+        "awayPosition": 8,
+        "homeStreak": "1V",
         "awayStreak": "1E"
       }
     },
@@ -293,17 +173,17 @@
       "away": "SC Internacional",
       "matchday": 28,
       "prediction": {
-        "xgHome": 1.56,
-        "xgAway": 0.69,
-        "probHome": 58.5,
-        "probDraw": 25.3,
-        "probAway": 16.2,
+        "xgHome": 1.42,
+        "xgAway": 0.84,
+        "probHome": 50.7,
+        "probDraw": 27.2,
+        "probAway": 22.1,
         "likelyScore": "1-0",
         "h2hMatchesConsidered": 10,
-        "homePosition": 10,
+        "homePosition": 11,
         "awayPosition": 18,
-        "homeStreak": "2V",
-        "awayStreak": "2D"
+        "homeStreak": "1D",
+        "awayStreak": "1V"
       }
     },
     {
@@ -313,17 +193,17 @@
       "away": "SE Palmeiras",
       "matchday": 28,
       "prediction": {
-        "xgHome": 0.89,
-        "xgAway": 1.69,
-        "probHome": 19.6,
-        "probDraw": 24.1,
-        "probAway": 56.3,
+        "xgHome": 0.85,
+        "xgAway": 1.72,
+        "probHome": 18.5,
+        "probDraw": 23.7,
+        "probAway": 57.8,
         "likelyScore": "0-1",
         "h2hMatchesConsidered": 10,
         "homePosition": 15,
-        "awayPosition": 2,
-        "homeStreak": "1D",
-        "awayStreak": "2E"
+        "awayPosition": 1,
+        "homeStreak": "2D",
+        "awayStreak": "1V"
       }
     },
     {
@@ -333,17 +213,17 @@
       "away": "Fluminense FC",
       "matchday": 28,
       "prediction": {
-        "xgHome": 0.89,
-        "xgAway": 1.17,
-        "probHome": 28.0,
-        "probDraw": 29.9,
-        "probAway": 42.1,
-        "likelyScore": "0-1",
+        "xgHome": 1.08,
+        "xgAway": 1.18,
+        "probHome": 33.2,
+        "probDraw": 28.7,
+        "probAway": 38.2,
+        "likelyScore": "1-1",
         "h2hMatchesConsidered": 10,
-        "homePosition": 12,
+        "homePosition": 13,
         "awayPosition": 4,
         "homeStreak": "4D",
-        "awayStreak": "1V"
+        "awayStreak": "1D"
       }
     },
     {
@@ -353,17 +233,17 @@
       "away": "Cruzeiro EC",
       "matchday": 28,
       "prediction": {
-        "xgHome": 1.07,
-        "xgAway": 1.22,
-        "probHome": 32.3,
-        "probDraw": 28.3,
-        "probAway": 39.4,
+        "xgHome": 1.18,
+        "xgAway": 1.19,
+        "probHome": 36.0,
+        "probDraw": 27.9,
+        "probAway": 36.1,
         "likelyScore": "1-1",
         "h2hMatchesConsidered": 10,
-        "homePosition": 11,
+        "homePosition": 12,
         "awayPosition": 6,
         "homeStreak": "1V",
-        "awayStreak": "1V"
+        "awayStreak": "1D"
       }
     },
     {
@@ -373,17 +253,17 @@
       "away": "RB Bragantino",
       "matchday": 28,
       "prediction": {
-        "xgHome": 2.02,
-        "xgAway": 0.44,
-        "probHome": 75.2,
-        "probDraw": 17.9,
-        "probAway": 6.9,
+        "xgHome": 2.12,
+        "xgAway": 0.47,
+        "probHome": 76.0,
+        "probDraw": 17.0,
+        "probAway": 7.0,
         "likelyScore": "2-0",
         "h2hMatchesConsidered": 10,
-        "homePosition": 1,
+        "homePosition": 2,
         "awayPosition": 9,
         "homeStreak": "3V",
-        "awayStreak": "2D"
+        "awayStreak": "1E"
       }
     },
     {
@@ -393,10 +273,10 @@
       "away": "EC Bahia",
       "matchday": 28,
       "prediction": {
-        "xgHome": 1.92,
-        "xgAway": 1.62,
+        "xgHome": 1.91,
+        "xgAway": 1.61,
         "probHome": 45.1,
-        "probDraw": 21.9,
+        "probDraw": 22.0,
         "probAway": 32.9,
         "likelyScore": "1-1",
         "h2hMatchesConsidered": 10,
