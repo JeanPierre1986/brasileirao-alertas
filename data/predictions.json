@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-09-21T15:44:29.428563+00:00",
+  "generatedAt": "2026-09-22T13:56:49.663057+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
   "leagueAvgHomeGoals": 1.52,
   "leagueAvgAwayGoals": 1.15,
-  "matches": []
+  "matches": [
+    {
+      "id": 554948,
+      "utcDate": "2026-10-02T23:00:00Z",
+      "home": "São Paulo FC",
+      "away": "Santos FC",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 1.32,
+        "xgAway": 1.12,
+        "probHome": 41.1,
+        "probDraw": 27.2,
+        "probAway": 31.7,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 11,
+        "awayPosition": 8,
+        "homeStreak": "1V",
+        "awayStreak": "4V"
+      }
+    }
+  ]
 }
