@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T13:56:49.663057+00:00",
+  "generatedAt": "2026-09-23T14:08:27.038090+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -24,6 +24,26 @@
         "awayPosition": 8,
         "homeStreak": "1V",
         "awayStreak": "4V"
+      }
+    },
+    {
+      "id": 554940,
+      "utcDate": "2026-10-03T21:30:00Z",
+      "home": "CA Mineiro",
+      "away": "RB Bragantino",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 1.62,
+        "xgAway": 0.89,
+        "probHome": 54.7,
+        "probDraw": 24.8,
+        "probAway": 20.5,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 7,
+        "awayPosition": 10,
+        "homeStreak": "1E",
+        "awayStreak": "1D"
       }
     }
   ]
