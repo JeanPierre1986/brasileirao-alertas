@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T13:40:03.368677+00:00",
+  "generatedAt": "2026-09-27T14:37:03.445007+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -44,6 +44,106 @@
         "awayPosition": 10,
         "homeStreak": "1E",
         "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555022,
+      "utcDate": "2026-10-07T22:30:00Z",
+      "home": "RB Bragantino",
+      "away": "Mirassol FC",
+      "matchday": 29,
+      "prediction": {
+        "xgHome": 1.38,
+        "xgAway": 1.04,
+        "probHome": 44.7,
+        "probDraw": 27.1,
+        "probAway": 28.2,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 4,
+        "homePosition": 10,
+        "awayPosition": 15,
+        "homeStreak": "1D",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555025,
+      "utcDate": "2026-10-07T22:30:00Z",
+      "home": "SC Internacional",
+      "away": "SC Corinthians Paulista",
+      "matchday": 29,
+      "prediction": {
+        "xgHome": 1.31,
+        "xgAway": 0.93,
+        "probHome": 45.4,
+        "probDraw": 28.2,
+        "probAway": 26.5,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 18,
+        "awayPosition": 14,
+        "homeStreak": "1D",
+        "awayStreak": "5D"
+      }
+    },
+    {
+      "id": 555027,
+      "utcDate": "2026-10-07T22:30:00Z",
+      "home": "Clube do Remo",
+      "away": "Grêmio FBPA",
+      "matchday": 29,
+      "prediction": {
+        "xgHome": 1.19,
+        "xgAway": 0.87,
+        "probHome": 43.5,
+        "probDraw": 29.8,
+        "probAway": 26.7,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 1,
+        "homePosition": 19,
+        "awayPosition": 17,
+        "homeStreak": "5D",
+        "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 555029,
+      "utcDate": "2026-10-07T23:00:00Z",
+      "home": "EC Vitória",
+      "away": "Chapecoense AF",
+      "matchday": 29,
+      "prediction": {
+        "xgHome": 1.43,
+        "xgAway": 0.89,
+        "probHome": 49.7,
+        "probDraw": 26.9,
+        "probAway": 23.3,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 9,
+        "homePosition": 13,
+        "awayPosition": 20,
+        "homeStreak": "1D",
+        "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 555021,
+      "utcDate": "2026-10-07T23:30:00Z",
+      "home": "Botafogo FR",
+      "away": "CR Vasco da Gama",
+      "matchday": 29,
+      "prediction": {
+        "xgHome": 1.76,
+        "xgAway": 1.63,
+        "probHome": 41.4,
+        "probDraw": 22.6,
+        "probAway": 35.9,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 12,
+        "awayPosition": 16,
+        "homeStreak": "1D",
+        "awayStreak": "2V"
       }
     }
   ]
