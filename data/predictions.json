@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:37:03.445007+00:00",
+  "generatedAt": "2026-09-28T17:28:34.624621+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -144,6 +144,66 @@
         "awayPosition": 16,
         "homeStreak": "1D",
         "awayStreak": "2V"
+      }
+    },
+    {
+      "id": 555023,
+      "utcDate": "2026-10-08T00:30:00Z",
+      "home": "Cruzeiro EC",
+      "away": "São Paulo FC",
+      "matchday": 29,
+      "prediction": {
+        "xgHome": 1.59,
+        "xgAway": 0.86,
+        "probHome": 54.6,
+        "probDraw": 25.1,
+        "probAway": 20.3,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 6,
+        "awayPosition": 11,
+        "homeStreak": "1V",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555028,
+      "utcDate": "2026-10-08T22:30:00Z",
+      "home": "Santos FC",
+      "away": "CR Flamengo",
+      "matchday": 29,
+      "prediction": {
+        "xgHome": 1.04,
+        "xgAway": 1.73,
+        "probHome": 22.7,
+        "probDraw": 23.7,
+        "probAway": 53.5,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 8,
+        "awayPosition": 1,
+        "homeStreak": "4V",
+        "awayStreak": "5V"
+      }
+    },
+    {
+      "id": 555020,
+      "utcDate": "2026-10-08T23:00:00Z",
+      "home": "CA Paranaense",
+      "away": "CA Mineiro",
+      "matchday": 29,
+      "prediction": {
+        "xgHome": 1.46,
+        "xgAway": 1.14,
+        "probHome": 44.4,
+        "probDraw": 26.0,
+        "probAway": 29.5,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 3,
+        "awayPosition": 7,
+        "homeStreak": "1V",
+        "awayStreak": "1E"
       }
     }
   ]
