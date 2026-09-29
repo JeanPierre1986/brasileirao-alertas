@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T17:28:34.624621+00:00",
+  "generatedAt": "2026-09-29T15:30:02.088546+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -204,6 +204,46 @@
         "awayPosition": 7,
         "homeStreak": "1V",
         "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 555024,
+      "utcDate": "2026-10-09T00:30:00Z",
+      "home": "Fluminense FC",
+      "away": "Coritiba FBC",
+      "matchday": 29,
+      "prediction": {
+        "xgHome": 2.8,
+        "xgAway": 1.36,
+        "probHome": 67.2,
+        "probDraw": 16.2,
+        "probAway": 16.3,
+        "likelyScore": "2-1",
+        "h2hMatchesConsidered": 9,
+        "homePosition": 4,
+        "awayPosition": 9,
+        "homeStreak": "1V",
+        "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555026,
+      "utcDate": "2026-10-09T00:30:00Z",
+      "home": "SE Palmeiras",
+      "away": "EC Bahia",
+      "matchday": 29,
+      "prediction": {
+        "xgHome": 1.91,
+        "xgAway": 1.03,
+        "probHome": 57.8,
+        "probDraw": 22.1,
+        "probAway": 20.1,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 2,
+        "awayPosition": 5,
+        "homeStreak": "1E",
+        "awayStreak": "1D"
       }
     }
   ]
