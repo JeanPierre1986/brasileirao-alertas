@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T15:30:02.088546+00:00",
+  "generatedAt": "2026-09-30T15:45:00.329074+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -243,6 +243,46 @@
         "homePosition": 2,
         "awayPosition": 5,
         "homeStreak": "1E",
+        "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555039,
+      "utcDate": "2026-10-10T20:00:00Z",
+      "home": "CR Vasco da Gama",
+      "away": "Clube do Remo",
+      "matchday": 30,
+      "prediction": {
+        "xgHome": 2.37,
+        "xgAway": 1.05,
+        "probHome": 66.6,
+        "probDraw": 18.1,
+        "probAway": 15.2,
+        "likelyScore": "2-1",
+        "h2hMatchesConsidered": 3,
+        "homePosition": 16,
+        "awayPosition": 19,
+        "homeStreak": "2V",
+        "awayStreak": "5D"
+      }
+    },
+    {
+      "id": 555038,
+      "utcDate": "2026-10-11T00:00:00Z",
+      "home": "São Paulo FC",
+      "away": "EC Vitória",
+      "matchday": 30,
+      "prediction": {
+        "xgHome": 1.86,
+        "xgAway": 0.5,
+        "probHome": 70.5,
+        "probDraw": 20.4,
+        "probAway": 9.1,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 9,
+        "homePosition": 11,
+        "awayPosition": 13,
+        "homeStreak": "1V",
         "awayStreak": "1D"
       }
     }
