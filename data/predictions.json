@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T15:45:00.329074+00:00",
+  "generatedAt": "2026-10-01T16:09:11.199257+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -284,6 +284,106 @@
         "awayPosition": 13,
         "homeStreak": "1V",
         "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555030,
+      "utcDate": "2026-10-11T19:00:00Z",
+      "home": "CA Mineiro",
+      "away": "Santos FC",
+      "matchday": 30,
+      "prediction": {
+        "xgHome": 1.6,
+        "xgAway": 1.54,
+        "probHome": 39.5,
+        "probDraw": 23.7,
+        "probAway": 36.8,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 7,
+        "awayPosition": 8,
+        "homeStreak": "1E",
+        "awayStreak": "4V"
+      }
+    },
+    {
+      "id": 555035,
+      "utcDate": "2026-10-11T20:30:00Z",
+      "home": "CR Flamengo",
+      "away": "Fluminense FC",
+      "matchday": 30,
+      "prediction": {
+        "xgHome": 2.39,
+        "xgAway": 0.93,
+        "probHome": 69.7,
+        "probDraw": 17.3,
+        "probAway": 12.8,
+        "likelyScore": "2-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 1,
+        "awayPosition": 4,
+        "homeStreak": "5V",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555036,
+      "utcDate": "2026-10-11T20:30:00Z",
+      "home": "Grêmio FBPA",
+      "away": "SC Internacional",
+      "matchday": 30,
+      "prediction": {
+        "xgHome": 1.42,
+        "xgAway": 0.99,
+        "probHome": 46.9,
+        "probDraw": 26.8,
+        "probAway": 26.3,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 17,
+        "awayPosition": 18,
+        "homeStreak": "1E",
+        "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555037,
+      "utcDate": "2026-10-11T20:30:00Z",
+      "home": "SE Palmeiras",
+      "away": "SC Corinthians Paulista",
+      "matchday": 30,
+      "prediction": {
+        "xgHome": 1.89,
+        "xgAway": 0.54,
+        "probHome": 69.9,
+        "probDraw": 20.3,
+        "probAway": 9.8,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 2,
+        "awayPosition": 14,
+        "homeStreak": "1E",
+        "awayStreak": "5D"
+      }
+    },
+    {
+      "id": 555031,
+      "utcDate": "2026-10-11T22:30:00Z",
+      "home": "EC Bahia",
+      "away": "Mirassol FC",
+      "matchday": 30,
+      "prediction": {
+        "xgHome": 1.96,
+        "xgAway": 1.05,
+        "probHome": 58.6,
+        "probDraw": 21.6,
+        "probAway": 19.7,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 3,
+        "homePosition": 5,
+        "awayPosition": 15,
+        "homeStreak": "1D",
+        "awayStreak": "1V"
       }
     }
   ]
