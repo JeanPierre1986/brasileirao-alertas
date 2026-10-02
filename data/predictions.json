@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T16:09:11.199257+00:00",
+  "generatedAt": "2026-10-02T15:33:01.640694+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -382,6 +382,66 @@
         "h2hMatchesConsidered": 3,
         "homePosition": 5,
         "awayPosition": 15,
+        "homeStreak": "1D",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555034,
+      "utcDate": "2026-10-12T19:00:00Z",
+      "home": "Coritiba FBC",
+      "away": "Botafogo FR",
+      "matchday": 30,
+      "prediction": {
+        "xgHome": 1.95,
+        "xgAway": 1.5,
+        "probHome": 48.4,
+        "probDraw": 21.9,
+        "probAway": 29.7,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 9,
+        "awayPosition": 12,
+        "homeStreak": "1D",
+        "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555033,
+      "utcDate": "2026-10-12T22:30:00Z",
+      "home": "Chapecoense AF",
+      "away": "CA Paranaense",
+      "matchday": 30,
+      "prediction": {
+        "xgHome": 1.88,
+        "xgAway": 2.55,
+        "probHome": 28.4,
+        "probDraw": 18.7,
+        "probAway": 52.7,
+        "likelyScore": "1-2",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 20,
+        "awayPosition": 3,
+        "homeStreak": "1E",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555032,
+      "utcDate": "2026-10-13T00:00:00Z",
+      "home": "RB Bragantino",
+      "away": "Cruzeiro EC",
+      "matchday": 30,
+      "prediction": {
+        "xgHome": 1.57,
+        "xgAway": 1.49,
+        "probHome": 39.7,
+        "probDraw": 24.0,
+        "probAway": 36.3,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 7,
+        "homePosition": 10,
+        "awayPosition": 6,
         "homeStreak": "1D",
         "awayStreak": "1V"
       }
