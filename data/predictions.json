@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T18:07:55.257633+00:00",
+  "generatedAt": "2026-10-06T15:47:23.385464+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -208,7 +208,7 @@
     },
     {
       "id": 555039,
-      "utcDate": "2026-10-10T20:00:00Z",
+      "utcDate": "2026-10-10T21:00:00Z",
       "home": "CR Vasco da Gama",
       "away": "Clube do Remo",
       "matchday": 30,
@@ -404,6 +404,26 @@
         "awayPosition": 6,
         "homeStreak": "2D",
         "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555047,
+      "utcDate": "2026-10-16T23:00:00Z",
+      "home": "Mirassol FC",
+      "away": "SC Internacional",
+      "matchday": 31,
+      "prediction": {
+        "xgHome": 1.49,
+        "xgAway": 1.07,
+        "probHome": 46.6,
+        "probDraw": 26.0,
+        "probAway": 27.4,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 3,
+        "homePosition": 15,
+        "awayPosition": 18,
+        "homeStreak": "1V",
+        "awayStreak": "1D"
       }
     }
   ]
