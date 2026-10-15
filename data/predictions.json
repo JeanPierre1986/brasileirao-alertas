@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T14:25:44.498614+00:00",
+  "generatedAt": "2026-10-15T14:03:35.658582+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.34,
@@ -344,6 +344,26 @@
         "awayPosition": 4,
         "homeStreak": "2D",
         "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555057,
+      "utcDate": "2026-10-25T01:00:00Z",
+      "home": "Santos FC",
+      "away": "EC Bahia",
+      "matchday": 32,
+      "prediction": {
+        "xgHome": 1.73,
+        "xgAway": 1.64,
+        "probHome": 40.6,
+        "probDraw": 22.7,
+        "probAway": 36.7,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 8,
+        "awayPosition": 5,
+        "homeStreak": "1D",
+        "awayStreak": "1V"
       }
     }
   ]
