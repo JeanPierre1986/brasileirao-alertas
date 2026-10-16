@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T14:03:35.658582+00:00",
+  "generatedAt": "2026-10-16T13:50:47.445266+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.34,
@@ -363,6 +363,46 @@
         "homePosition": 8,
         "awayPosition": 5,
         "homeStreak": "1D",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555051,
+      "utcDate": "2026-10-26T22:30:00Z",
+      "home": "Coritiba FBC",
+      "away": "Grêmio FBPA",
+      "matchday": 32,
+      "prediction": {
+        "xgHome": 1.41,
+        "xgAway": 1.0,
+        "probHome": 46.4,
+        "probDraw": 26.9,
+        "probAway": 26.7,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 7,
+        "homePosition": 11,
+        "awayPosition": 18,
+        "homeStreak": "1E",
+        "awayStreak": "3E"
+      }
+    },
+    {
+      "id": 555053,
+      "utcDate": "2026-10-26T23:00:00Z",
+      "home": "CR Flamengo",
+      "away": "CA Mineiro",
+      "matchday": 32,
+      "prediction": {
+        "xgHome": 1.59,
+        "xgAway": 0.62,
+        "probHome": 61.0,
+        "probDraw": 24.8,
+        "probAway": 14.2,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 1,
+        "awayPosition": 7,
+        "homeStreak": "1V",
         "awayStreak": "1V"
       }
     }
