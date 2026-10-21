@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:12:38.057604+00:00",
+  "generatedAt": "2026-10-21T14:25:26.605945+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -384,6 +384,26 @@
         "awayPosition": 14,
         "homeStreak": "1E",
         "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555064,
+      "utcDate": "2026-10-31T19:00:00Z",
+      "home": "Coritiba FBC",
+      "away": "EC Vitória",
+      "matchday": 33,
+      "prediction": {
+        "xgHome": 1.42,
+        "xgAway": 1.53,
+        "probHome": 35.2,
+        "probDraw": 24.5,
+        "probAway": 40.3,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 7,
+        "homePosition": 12,
+        "awayPosition": 13,
+        "homeStreak": "1D",
+        "awayStreak": "1E"
       }
     }
   ]
