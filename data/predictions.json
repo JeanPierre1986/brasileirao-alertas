@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:26:35.639313+00:00",
+  "generatedAt": "2026-10-23T14:09:19.207034+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -404,6 +404,26 @@
         "awayPosition": 13,
         "homeStreak": "1D",
         "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 555072,
+      "utcDate": "2026-11-02T23:00:00Z",
+      "home": "RB Bragantino",
+      "away": "Santos FC",
+      "matchday": 34,
+      "prediction": {
+        "xgHome": 1.63,
+        "xgAway": 1.61,
+        "probHome": 38.8,
+        "probDraw": 23.2,
+        "probAway": 37.9,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 10,
+        "awayPosition": 8,
+        "homeStreak": "1E",
+        "awayStreak": "1V"
       }
     }
   ]
