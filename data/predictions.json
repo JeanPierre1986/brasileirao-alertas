@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:53:14.569363+00:00",
+  "generatedAt": "2026-11-02T19:18:09.542482+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -159,7 +159,7 @@
         "probDraw": 19.4,
         "probAway": 5.6,
         "likelyScore": "1-0",
-        "h2hMatchesConsidered": 0,
+        "h2hMatchesConsidered": 1,
         "homePosition": 2,
         "awayPosition": 19,
         "homeStreak": "1E",
