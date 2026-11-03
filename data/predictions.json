@@ -1,31 +1,11 @@
 {
-  "generatedAt": "2026-11-02T19:18:09.542482+00:00",
+  "generatedAt": "2026-11-03T16:53:40.993967+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
   "leagueAvgHomeGoals": 1.53,
   "leagueAvgAwayGoals": 1.13,
   "matches": [
-    {
-      "id": 555072,
-      "utcDate": "2026-11-02T23:00:00Z",
-      "home": "RB Bragantino",
-      "away": "Santos FC",
-      "matchday": 34,
-      "prediction": {
-        "xgHome": 1.7,
-        "xgAway": 1.31,
-        "probHome": 46.7,
-        "probDraw": 23.8,
-        "probAway": 29.6,
-        "likelyScore": "1-1",
-        "h2hMatchesConsidered": 10,
-        "homePosition": 9,
-        "awayPosition": 8,
-        "homeStreak": "1V",
-        "awayStreak": "2E"
-      }
-    },
     {
       "id": 555073,
       "utcDate": "2026-11-03T22:30:00Z",
@@ -55,7 +35,7 @@
       "prediction": {
         "xgHome": 1.72,
         "xgAway": 0.78,
-        "probHome": 59.8,
+        "probHome": 59.7,
         "probDraw": 23.5,
         "probAway": 16.7,
         "likelyScore": "1-0",
@@ -133,7 +113,7 @@
       "away": "SC Corinthians Paulista",
       "matchday": 34,
       "prediction": {
-        "xgHome": 1.85,
+        "xgHome": 1.84,
         "xgAway": 1.01,
         "probHome": 57.0,
         "probDraw": 22.6,
@@ -153,7 +133,7 @@
       "away": "Clube do Remo",
       "matchday": 34,
       "prediction": {
-        "xgHome": 1.84,
+        "xgHome": 1.83,
         "xgAway": 0.31,
         "probHome": 75.0,
         "probDraw": 19.4,
