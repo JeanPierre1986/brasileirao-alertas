@@ -1,51 +1,11 @@
 {
-  "generatedAt": "2026-11-03T16:53:40.993967+00:00",
+  "generatedAt": "2026-11-04T16:57:06.411531+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
   "leagueAvgHomeGoals": 1.53,
   "leagueAvgAwayGoals": 1.13,
   "matches": [
-    {
-      "id": 555073,
-      "utcDate": "2026-11-03T22:30:00Z",
-      "home": "Chapecoense AF",
-      "away": "Mirassol FC",
-      "matchday": 34,
-      "prediction": {
-        "xgHome": 0.98,
-        "xgAway": 1.56,
-        "probHome": 23.7,
-        "probDraw": 25.4,
-        "probAway": 50.9,
-        "likelyScore": "0-1",
-        "h2hMatchesConsidered": 5,
-        "homePosition": 20,
-        "awayPosition": 16,
-        "homeStreak": "1D",
-        "awayStreak": "1D"
-      }
-    },
-    {
-      "id": 555076,
-      "utcDate": "2026-11-04T00:30:00Z",
-      "home": "SC Internacional",
-      "away": "Coritiba FBC",
-      "matchday": 34,
-      "prediction": {
-        "xgHome": 1.72,
-        "xgAway": 0.78,
-        "probHome": 59.7,
-        "probDraw": 23.5,
-        "probAway": 16.7,
-        "likelyScore": "1-0",
-        "h2hMatchesConsidered": 7,
-        "homePosition": 18,
-        "awayPosition": 11,
-        "homeStreak": "1D",
-        "awayStreak": "1V"
-      }
-    },
     {
       "id": 555070,
       "utcDate": "2026-11-04T22:30:00Z",
@@ -61,7 +21,7 @@
         "likelyScore": "1-1",
         "h2hMatchesConsidered": 10,
         "homePosition": 5,
-        "awayPosition": 13,
+        "awayPosition": 14,
         "homeStreak": "1D",
         "awayStreak": "1D"
       }
@@ -73,15 +33,15 @@
       "away": "Grêmio FBPA",
       "matchday": 34,
       "prediction": {
-        "xgHome": 2.11,
+        "xgHome": 2.12,
         "xgAway": 0.55,
-        "probHome": 73.8,
-        "probDraw": 17.8,
+        "probHome": 73.9,
+        "probDraw": 17.7,
         "probAway": 8.4,
         "likelyScore": "2-0",
         "h2hMatchesConsidered": 10,
         "homePosition": 1,
-        "awayPosition": 15,
+        "awayPosition": 17,
         "homeStreak": "4V",
         "awayStreak": "2V"
       }
@@ -100,7 +60,7 @@
         "probAway": 41.9,
         "likelyScore": "1-1",
         "h2hMatchesConsidered": 10,
-        "homePosition": 12,
+        "homePosition": 13,
         "awayPosition": 7,
         "homeStreak": "2D",
         "awayStreak": "2D"
@@ -113,15 +73,15 @@
       "away": "SC Corinthians Paulista",
       "matchday": 34,
       "prediction": {
-        "xgHome": 1.84,
+        "xgHome": 1.85,
         "xgAway": 1.01,
-        "probHome": 57.0,
+        "probHome": 57.1,
         "probDraw": 22.6,
         "probAway": 20.3,
         "likelyScore": "1-1",
         "h2hMatchesConsidered": 10,
         "homePosition": 10,
-        "awayPosition": 17,
+        "awayPosition": 18,
         "homeStreak": "1D",
         "awayStreak": "1V"
       }
@@ -133,11 +93,11 @@
       "away": "Clube do Remo",
       "matchday": 34,
       "prediction": {
-        "xgHome": 1.83,
+        "xgHome": 1.84,
         "xgAway": 0.31,
-        "probHome": 75.0,
+        "probHome": 75.1,
         "probDraw": 19.4,
-        "probAway": 5.6,
+        "probAway": 5.5,
         "likelyScore": "1-0",
         "h2hMatchesConsidered": 1,
         "homePosition": 2,
@@ -180,10 +140,50 @@
         "probAway": 33.6,
         "likelyScore": "1-1",
         "h2hMatchesConsidered": 9,
-        "homePosition": 14,
+        "homePosition": 15,
         "awayPosition": 4,
         "homeStreak": "1D",
         "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555085,
+      "utcDate": "2026-11-14T21:30:00Z",
+      "home": "Mirassol FC",
+      "away": "CA Mineiro",
+      "matchday": 35,
+      "prediction": {
+        "xgHome": 1.14,
+        "xgAway": 1.06,
+        "probHome": 37.6,
+        "probDraw": 29.1,
+        "probAway": 33.3,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 3,
+        "homePosition": 12,
+        "awayPosition": 7,
+        "homeStreak": "1V",
+        "awayStreak": "2D"
+      }
+    },
+    {
+      "id": 554942,
+      "utcDate": "2026-11-14T23:30:00Z",
+      "home": "Chapecoense AF",
+      "away": "CR Vasco da Gama",
+      "matchday": 21,
+      "prediction": {
+        "xgHome": 1.17,
+        "xgAway": 2.36,
+        "probHome": 17.5,
+        "probDraw": 18.7,
+        "probAway": 63.7,
+        "likelyScore": "1-2",
+        "h2hMatchesConsidered": 9,
+        "homePosition": 20,
+        "awayPosition": 14,
+        "homeStreak": "2D",
+        "awayStreak": "1D"
       }
     }
   ]
