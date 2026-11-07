@@ -1,31 +1,11 @@
 {
-  "generatedAt": "2026-11-06T16:38:34.213399+00:00",
+  "generatedAt": "2026-11-07T15:30:38.888596+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.34,
   "leagueAvgHomeGoals": 1.54,
   "leagueAvgAwayGoals": 1.13,
   "matches": [
-    {
-      "id": 555079,
-      "utcDate": "2026-11-06T23:00:00Z",
-      "home": "EC Vitória",
-      "away": "Fluminense FC",
-      "matchday": 34,
-      "prediction": {
-        "xgHome": 1.4,
-        "xgAway": 1.25,
-        "probHome": 40.4,
-        "probDraw": 26.0,
-        "probAway": 33.6,
-        "likelyScore": "1-1",
-        "h2hMatchesConsidered": 9,
-        "homePosition": 15,
-        "awayPosition": 4,
-        "homeStreak": "1D",
-        "awayStreak": "1V"
-      }
-    },
     {
       "id": 555085,
       "utcDate": "2026-11-14T21:30:00Z",
@@ -37,7 +17,7 @@
         "xgAway": 0.95,
         "probHome": 41.5,
         "probDraw": 29.3,
-        "probAway": 29.3,
+        "probAway": 29.2,
         "likelyScore": "1-0",
         "h2hMatchesConsidered": 3,
         "homePosition": 14,
@@ -55,9 +35,9 @@
       "prediction": {
         "xgHome": 1.2,
         "xgAway": 2.32,
-        "probHome": 18.5,
-        "probDraw": 19.0,
-        "probAway": 62.4,
+        "probHome": 18.6,
+        "probDraw": 19.1,
+        "probAway": 62.3,
         "likelyScore": "1-2",
         "h2hMatchesConsidered": 9,
         "homePosition": 20,
