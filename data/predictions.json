@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:51:20.346793+00:00",
+  "generatedAt": "2026-11-09T19:37:25.384887+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.34,
@@ -124,6 +124,86 @@
         "awayPosition": 5,
         "homeStreak": "5V",
         "awayStreak": "2D"
+      }
+    },
+    {
+      "id": 555080,
+      "utcDate": "2026-11-19T00:30:00Z",
+      "home": "SC Corinthians Paulista",
+      "away": "Botafogo FR",
+      "matchday": 35,
+      "prediction": {
+        "xgHome": 1.3,
+        "xgAway": 0.99,
+        "probHome": 43.7,
+        "probDraw": 28.0,
+        "probAway": 28.3,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 17,
+        "awayPosition": 11,
+        "homeStreak": "1E",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555084,
+      "utcDate": "2026-11-19T00:30:00Z",
+      "home": "Grêmio FBPA",
+      "away": "EC Bahia",
+      "matchday": 35,
+      "prediction": {
+        "xgHome": 1.7,
+        "xgAway": 1.36,
+        "probHome": 45.6,
+        "probDraw": 23.7,
+        "probAway": 30.7,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 18,
+        "awayPosition": 6,
+        "homeStreak": "1D",
+        "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555088,
+      "utcDate": "2026-11-19T22:30:00Z",
+      "home": "CR Vasco da Gama",
+      "away": "SC Internacional",
+      "matchday": 35,
+      "prediction": {
+        "xgHome": 1.39,
+        "xgAway": 1.23,
+        "probHome": 40.6,
+        "probDraw": 26.2,
+        "probAway": 33.2,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 13,
+        "awayPosition": 16,
+        "homeStreak": "1V",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555089,
+      "utcDate": "2026-11-19T22:30:00Z",
+      "home": "EC Vitória",
+      "away": "RB Bragantino",
+      "matchday": 35,
+      "prediction": {
+        "xgHome": 1.1,
+        "xgAway": 1.11,
+        "probHome": 35.1,
+        "probDraw": 29.0,
+        "probAway": 35.8,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 9,
+        "homePosition": 15,
+        "awayPosition": 8,
+        "homeStreak": "2D",
+        "awayStreak": "2V"
       }
     }
   ]
