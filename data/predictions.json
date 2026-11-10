@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T19:37:25.384887+00:00",
+  "generatedAt": "2026-11-10T16:52:53.858394+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.34,
@@ -203,6 +203,26 @@
         "homePosition": 15,
         "awayPosition": 8,
         "homeStreak": "2D",
+        "awayStreak": "2V"
+      }
+    },
+    {
+      "id": 555087,
+      "utcDate": "2026-11-20T00:30:00Z",
+      "home": "São Paulo FC",
+      "away": "Fluminense FC",
+      "matchday": 35,
+      "prediction": {
+        "xgHome": 1.17,
+        "xgAway": 1.13,
+        "probHome": 36.9,
+        "probDraw": 28.3,
+        "probAway": 34.8,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 10,
+        "awayPosition": 4,
+        "homeStreak": "1E",
         "awayStreak": "2V"
       }
     }
