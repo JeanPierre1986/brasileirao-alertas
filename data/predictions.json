@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:52:53.858394+00:00",
+  "generatedAt": "2026-11-11T16:58:45.838714+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.34,
@@ -224,6 +224,66 @@
         "awayPosition": 4,
         "homeStreak": "1E",
         "awayStreak": "2V"
+      }
+    },
+    {
+      "id": 555098,
+      "utcDate": "2026-11-21T19:30:00Z",
+      "home": "SE Palmeiras",
+      "away": "CR Flamengo",
+      "matchday": 36,
+      "prediction": {
+        "xgHome": 1.63,
+        "xgAway": 1.01,
+        "probHome": 51.8,
+        "probDraw": 24.7,
+        "probAway": 23.5,
+        "likelyScore": "1-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 2,
+        "awayPosition": 1,
+        "homeStreak": "1V",
+        "awayStreak": "5V"
+      }
+    },
+    {
+      "id": 555092,
+      "utcDate": "2026-11-21T20:30:00Z",
+      "home": "EC Bahia",
+      "away": "Coritiba FBC",
+      "matchday": 36,
+      "prediction": {
+        "xgHome": 1.57,
+        "xgAway": 0.87,
+        "probHome": 53.7,
+        "probDraw": 25.4,
+        "probAway": 20.9,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 7,
+        "homePosition": 6,
+        "awayPosition": 12,
+        "homeStreak": "1D",
+        "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555095,
+      "utcDate": "2026-11-22T00:00:00Z",
+      "home": "Chapecoense AF",
+      "away": "Cruzeiro EC",
+      "matchday": 36,
+      "prediction": {
+        "xgHome": 1.21,
+        "xgAway": 3.26,
+        "probHome": 10.3,
+        "probDraw": 12.6,
+        "probAway": 76.4,
+        "likelyScore": "1-3",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 20,
+        "awayPosition": 3,
+        "homeStreak": "2D",
+        "awayStreak": "4V"
       }
     }
   ]
