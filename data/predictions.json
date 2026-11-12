@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:58:45.838714+00:00",
+  "generatedAt": "2026-11-12T17:27:38.771877+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.34,
@@ -284,6 +284,66 @@
         "awayPosition": 3,
         "homeStreak": "2D",
         "awayStreak": "4V"
+      }
+    },
+    {
+      "id": 555090,
+      "utcDate": "2026-11-22T19:00:00Z",
+      "home": "CA Paranaense",
+      "away": "Clube do Remo",
+      "matchday": 36,
+      "prediction": {
+        "xgHome": 2.04,
+        "xgAway": 0.89,
+        "probHome": 64.1,
+        "probDraw": 20.4,
+        "probAway": 15.5,
+        "likelyScore": "2-0",
+        "h2hMatchesConsidered": 3,
+        "homePosition": 5,
+        "awayPosition": 19,
+        "homeStreak": "2D",
+        "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555096,
+      "utcDate": "2026-11-22T21:30:00Z",
+      "home": "Fluminense FC",
+      "away": "Mirassol FC",
+      "matchday": 36,
+      "prediction": {
+        "xgHome": 1.77,
+        "xgAway": 0.73,
+        "probHome": 62.3,
+        "probDraw": 22.8,
+        "probAway": 14.9,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 3,
+        "homePosition": 4,
+        "awayPosition": 14,
+        "homeStreak": "2V",
+        "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555094,
+      "utcDate": "2026-11-22T22:30:00Z",
+      "home": "RB Bragantino",
+      "away": "CR Vasco da Gama",
+      "matchday": 36,
+      "prediction": {
+        "xgHome": 2.06,
+        "xgAway": 1.09,
+        "probHome": 59.8,
+        "probDraw": 20.8,
+        "probAway": 19.3,
+        "likelyScore": "2-1",
+        "h2hMatchesConsidered": 9,
+        "homePosition": 8,
+        "awayPosition": 13,
+        "homeStreak": "2V",
+        "awayStreak": "1V"
       }
     }
   ]
