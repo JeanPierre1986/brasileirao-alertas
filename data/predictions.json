@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T17:27:38.771877+00:00",
+  "generatedAt": "2026-11-13T17:02:16.518507+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.34,
@@ -344,6 +344,66 @@
         "awayPosition": 13,
         "homeStreak": "2V",
         "awayStreak": "1V"
+      }
+    },
+    {
+      "id": 555097,
+      "utcDate": "2026-11-23T22:30:00Z",
+      "home": "SC Internacional",
+      "away": "EC Vitória",
+      "matchday": 36,
+      "prediction": {
+        "xgHome": 1.76,
+        "xgAway": 0.67,
+        "probHome": 63.7,
+        "probDraw": 22.7,
+        "probAway": 13.6,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 9,
+        "homePosition": 16,
+        "awayPosition": 15,
+        "homeStreak": "1V",
+        "awayStreak": "2D"
+      }
+    },
+    {
+      "id": 555093,
+      "utcDate": "2026-11-23T23:00:00Z",
+      "home": "Botafogo FR",
+      "away": "São Paulo FC",
+      "matchday": 36,
+      "prediction": {
+        "xgHome": 1.28,
+        "xgAway": 0.9,
+        "probHome": 45.0,
+        "probDraw": 28.6,
+        "probAway": 26.3,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 11,
+        "awayPosition": 10,
+        "homeStreak": "1V",
+        "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 555099,
+      "utcDate": "2026-11-24T00:00:00Z",
+      "home": "Santos FC",
+      "away": "Grêmio FBPA",
+      "matchday": 36,
+      "prediction": {
+        "xgHome": 1.4,
+        "xgAway": 0.88,
+        "probHome": 49.1,
+        "probDraw": 27.3,
+        "probAway": 23.6,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 9,
+        "awayPosition": 18,
+        "homeStreak": "1D",
+        "awayStreak": "1D"
       }
     }
   ]
