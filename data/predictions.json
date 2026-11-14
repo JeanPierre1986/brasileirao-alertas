@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:02:16.518507+00:00",
+  "generatedAt": "2026-11-14T15:41:02.617885+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.34,
@@ -404,6 +404,26 @@
         "awayPosition": 18,
         "homeStreak": "1D",
         "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555102,
+      "utcDate": "2026-11-24T21:00:00Z",
+      "home": "Chapecoense AF",
+      "away": "SE Palmeiras",
+      "matchday": 37,
+      "prediction": {
+        "xgHome": 0.42,
+        "xgAway": 3.46,
+        "probHome": 2.0,
+        "probDraw": 6.3,
+        "probAway": 90.8,
+        "likelyScore": "0-3",
+        "h2hMatchesConsidered": 9,
+        "homePosition": 20,
+        "awayPosition": 2,
+        "homeStreak": "2D",
+        "awayStreak": "1V"
       }
     }
   ]
