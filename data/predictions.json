@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:10:21.309738+00:00",
+  "generatedAt": "2026-11-16T19:25:12.415046+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -404,6 +404,26 @@
         "awayPosition": 17,
         "homeStreak": "1E",
         "awayStreak": "1E"
+      }
+    },
+    {
+      "id": 555108,
+      "utcDate": "2026-11-26T23:00:00Z",
+      "home": "São Paulo FC",
+      "away": "Clube do Remo",
+      "matchday": 37,
+      "prediction": {
+        "xgHome": 1.76,
+        "xgAway": 0.61,
+        "probHome": 65.2,
+        "probDraw": 22.5,
+        "probAway": 12.4,
+        "likelyScore": "1-0",
+        "h2hMatchesConsidered": 1,
+        "homePosition": 10,
+        "awayPosition": 19,
+        "homeStreak": "1E",
+        "awayStreak": "1D"
       }
     }
   ]
