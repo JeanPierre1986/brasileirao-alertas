@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T19:25:12.415046+00:00",
+  "generatedAt": "2026-11-17T18:18:53.993940+00:00",
   "competition": "Brasileirão Série A",
   "model": "poisson-v3-home_away_splits-recent_form-streak-h2h",
   "leagueAvgGoals": 1.33,
@@ -424,6 +424,26 @@
         "awayPosition": 19,
         "homeStreak": "1E",
         "awayStreak": "1D"
+      }
+    },
+    {
+      "id": 555105,
+      "utcDate": "2026-11-27T23:00:00Z",
+      "home": "Fluminense FC",
+      "away": "Cruzeiro EC",
+      "matchday": 37,
+      "prediction": {
+        "xgHome": 2.16,
+        "xgAway": 1.4,
+        "probHome": 54.8,
+        "probDraw": 20.6,
+        "probAway": 24.5,
+        "likelyScore": "2-1",
+        "h2hMatchesConsidered": 10,
+        "homePosition": 4,
+        "awayPosition": 3,
+        "homeStreak": "2V",
+        "awayStreak": "4V"
       }
     }
   ]
